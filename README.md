@@ -1,6 +1,3 @@
-# leaflet-challenge
-Module 15 Challenge
-
 # Earthquake Map Visualization
 
 ## Overview
